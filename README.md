@@ -1,7 +1,6 @@
 # Syntecxhub AI Internship — Week 1 Task
 
 Domain: Artificial Intelligence (AI)
-Rule: Kam se kam **1 project** karna zaroori hai (dono karne se behtar).
 
 ## Project 1 — Maze Solver using A* Search
 File: `maze_solver.py`
@@ -29,11 +28,3 @@ Chalane ke liye:
 python3 expert_system.py
 ```
 Phir symptoms likho, masalan: `fever, cough`
-
-## Submit kaise karna hai
-1. GitHub par repository banao, naam: `Syntecxhub_Project_Name`
-   (apni project ka naam lagao, masalan `Syntecxhub_Maze_Solver`)
-2. Dono files upload karo
-3. Syntecxhub ka **Submission Form** bharo (link group mein milega)
-4. PDF kehta hai LinkedIn par internship share karo aur @Syntecxhub mention karo —
-   ye certificate milne ke baad karna behtar hai.
